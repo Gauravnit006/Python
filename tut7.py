@@ -10,4 +10,3 @@ comment
 # print("And it is used for education.")
 # print("This is a laptop.","And it is used for education.")
 print("C:\"narry\"")
-print("haha")
