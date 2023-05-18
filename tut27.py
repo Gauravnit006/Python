@@ -18,5 +18,5 @@ f = open("File_1.txt", "rt")
 # print(f.readline())
 # print(f.readline())
 
-# print(f.readlines())
-# f.close()
+print(f.readlines())
+f.close()

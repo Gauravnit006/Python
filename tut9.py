@@ -3,9 +3,9 @@
 abc = "aarav is a good boy"
 # print(len(abc))
 # [start index : end index +1:num-1 letter ignore]
-# print(abc[0:5:2])
+# print(abc[0:7:2])
 # print(abc[-6:-2])
-# print(abc[6:])
+# print(abc[7:])
 # print(abc[::-1])
 
 # "isalnum" is true when there is no space between string otherwise false
