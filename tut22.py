@@ -29,7 +29,7 @@
 # Logical Operators
 # a = True
 # b = False
-# print(a and a)  # and, or
+# print(b and b)  # and, or
 
 # Identity Operators
 # p = 5
@@ -37,7 +37,7 @@
 # print(p is not q)
 
 # Membership Operators
-# u = 2
+# u = 3
 # list1 = [4, 1, 9, 3, 58]
 # print(u not in list1)
 

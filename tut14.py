@@ -14,11 +14,11 @@
 #     print("Lesser")
 
 
-# list1 = [3, 2, 9, 6]
-# num1 = int(input("Enter the value of num1 : "))
-# print(num1 in list1)
-# if num1 in list1:
-#     print(num1, "in the list")
-# else:
-#     print(num1, "not in the list")
+list1 = [3, 2, 9, 6]
+num1 = int(input("Enter the value of num1 : "))
+print(num1 in list1)
+if num1 in list1:
+    print(num1, "in the list")
+else:
+    print(num1, "not in the list")
 
